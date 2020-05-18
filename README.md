@@ -1,4 +1,3 @@
-# Twitter-sentiment-analysis-with-Spark-Streaming-
 <h1>Twitter Streaming Project</h1>
 In this project, I have calculated the average sentiment of selected tweets and drew a dynamic graph that shows how this average sentiment is changing over time. Roughly, the steps involved:
 
